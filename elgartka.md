@@ -5,3 +5,5 @@ title: Micro:bit ve výuce – Elgartka
 
 
 [Gajdoška](zsg.html)
+
+[Home](index.html)
