@@ -1,5 +1,5 @@
 ---
-title: Micro:bit ve výuce
+title: Micro:bit ve výuce – projekty
 ---
 ## Projekty
 
