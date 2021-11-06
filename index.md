@@ -6,6 +6,9 @@ title: Micro:bit ve výuce – projekty
 
 Hlavní strana: [Micro:bit ve výuce](https://microbiti.cz)
 
+[Gajdoška](zsg.html)
+
+[Elgartka](elgartka.html)
 
 ### Markdown
 
