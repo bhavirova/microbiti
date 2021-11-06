@@ -1,6 +1,3 @@
----
-title: Micro:bit ve výuce – projekty
----
 ## Projekty
 
 Hlavní strana: [Micro:bit ve výuce](https://microbiti.cz)
