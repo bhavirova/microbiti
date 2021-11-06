@@ -5,3 +5,5 @@ title: Micro:bit ve výuce – ZŠG
 
 
 [Elgartka](elgartka.html)
+
+[Home](index.html)
