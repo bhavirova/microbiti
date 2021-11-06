@@ -4,11 +4,9 @@ title: Micro:bit ve výuce – projekty
 
 ## Projekty
 
-Hlavní strana: [Micro:bit ve výuce](https://microbiti.cz)
-
-[Gajdoška](zsg.html)
-
-[Elgartka](elgartka.html)
+- Blog: [Micro:bit ve výuce](https://microbiti.cz)
+- [Gajdoška](zsg.html)
+- [Elgartka](elgartka.html)
 
 ### Markdown
 
@@ -20,9 +18,6 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
-- Bulleted
-- List
 
 1. Numbered
 2. List
